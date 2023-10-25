@@ -14,7 +14,6 @@ Start by [cloning](https://docs.github.com/en/github/creating-cloning-and-archiv
 
 ```sh
 git clone https://github.com/square/web-payments-quickstart
-cd web-payments-quickstart
 ```
 
 Install [Node.js (v16)](https://nodejs.org/en/about/releases/) which will include `npm`. This repository contains an `.nvmrc` file if you use [`nvm`](https://github.com/nvm-sh/nvm) to manage your node versions.
